@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "removeComments": false,
+    "target": "es2015"
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules"]
+  }
